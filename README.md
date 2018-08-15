@@ -3,7 +3,7 @@
 __Manually curated collection of ressources, plugins and guides for the game [Beat Saber](http://beatsaber.com/).__
 
 ### Disclaimer
-This repository is maily being created and maintained by me for my personal usage at the moment. This is due to the nature of the Beat Saber community primarily residing in [Discord](https://discordapp.com/channels/441805394323439646).
+This repository is mainly being created and maintained by me for my personal usage at the moment. This is due to the nature of the Beat Saber community primarily residing in [Discord](https://discordapp.com/channels/441805394323439646).
 
 ---------------------------------------------------------
 
